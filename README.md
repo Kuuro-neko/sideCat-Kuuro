@@ -1,6 +1,6 @@
 # cat-rainmeter-skin
 
-Based on dule23's Rainmeter skin.
+Based on [dule23](https://www.deviantart.com/dule23/art/Catppuccin-Rainmeter-skin-914252677/)'s Rainmeter skin.
 
 Made these changes for myself, but made it public because why not.
 
