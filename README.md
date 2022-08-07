@@ -29,6 +29,6 @@ There are a lot of things you can easily change, just dig in the files !
 
 ## Credits
 
-Original rainmeter skin from [dule23](https://www.deviantart.com/dule23/art/Catppuccin-Rainmeter-skin-914252677/)
+Original rainmeter skin : [sideCat from dule23](https://www.deviantart.com/dule23/art/Catppuccin-Rainmeter-skin-914252677/)
 
-Image i am using as wallpaper from [Namocchi Art](https://www.artstation.com/artwork/4XRwzY/)
+[Image i am using as wallpaper from Namocchi Art](https://www.artstation.com/artwork/4XRwzY/)
