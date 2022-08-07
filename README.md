@@ -2,6 +2,29 @@
 
 Personnal rainmeter skin for my desktop
 
-Credits for the original rainmeter skin goes to **dule23** : https://www.deviantart.com/dule23/art/Catppuccin-Rainmeter-skin-914252677
+Download rainmeter here : 
 
-Credits for the image i am using as wallpaper goes to **Namocchi Art** : https://www.artstation.com/artwork/4XRwzY
+## Preview
+
+![Screenshot of my desktop](https://i.imgur.com/KGMrwea.png)
+
+## Setup
+
+In case you want to try it and never have used Rainmeter before :
+
+- Install [Rainmeter](https://www.rainmeter.net/)
+
+- Clone this repo in Documents/Rainmeter/Skins
+
+- From Rainmeter activate all the skin elements
+
+- Drag the elements to the place of your choice (RMB > Parameters > Stick to edge to disable the sticking thing)
+
+To customise the location, metrics and language edit @Resources/styles.inc<br>
+More help about this in @Resources/WeatherData/MeasureNamesReference.txt
+
+## Credits
+
+Original rainmeter skin from [dule23](https://www.deviantart.com/dule23/art/Catppuccin-Rainmeter-skin-914252677/)
+
+Image i am using as wallpaper from [Namocchi Art](https://www.artstation.com/artwork/4XRwzY/)
