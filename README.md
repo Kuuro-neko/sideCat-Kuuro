@@ -1,4 +1,4 @@
-# cat-rainmeter-skin
+# sideCat-Kuuro
 
 Based on [dule23's Rainmeter skin](https://www.deviantart.com/dule23/art/Catppuccin-Rainmeter-skin-914252677/) (which also has a top bar for unix systems, go check it, it looks cool).
 
