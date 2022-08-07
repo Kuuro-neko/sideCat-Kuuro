@@ -1,6 +1,10 @@
 # cat-rainmeter-skin
 
-Personal rainmeter skin for my desktop
+Based on dule23's Rainmeter skin.
+
+Made these changes for myself, but made it public because why not.
+
+It is not intended for easy setup, specially if you never used Rainmeter but i wrote something to help setup this.
 
 ## Preview
 
@@ -18,8 +22,10 @@ In case you want to try it and never have used Rainmeter before :
 
 - Drag the elements to the place of your choice (RMB > Parameters > Stick to edge to disable the sticking thing)
 
-To customise the location, metrics and language edit @Resources/styles.inc<br>
+To customize the location, metrics and language edit @Resources/styles.inc<br>
 More help about this in @Resources/WeatherData/MeasureNamesReference.txt
+
+There are a lot of things you can easily change, just dig in the files !
 
 ## Credits
 
