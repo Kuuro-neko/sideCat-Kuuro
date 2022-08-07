@@ -1,8 +1,6 @@
 # cat-rainmeter-skin
 
-Personnal rainmeter skin for my desktop
-
-Download rainmeter here : 
+Personal rainmeter skin for my desktop
 
 ## Preview
 
