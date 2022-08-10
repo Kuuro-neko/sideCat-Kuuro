@@ -34,7 +34,7 @@ This one requires a little more effort to setup since you need to use HWiNFO to 
 - Go to the [official rainmeter's HWinfo guide](https://docs.rainmeter.net/tips/hwinfo/) and follow the steps starting at installing HWiNFO until you create your first gadget
 
 - Create a gadget for your CPU and GPU temperature and remember their ID<br>
-  If you forgot their ID, do the following command on a cmd to get them faster :
+  If you forgot their ID, use the following command on a cmd to get them faster :
   ```
   reg query HKEY_CURRENT_USER\SOFTWARE\HWiNFO64\VSB
   ```
