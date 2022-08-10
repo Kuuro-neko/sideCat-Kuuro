@@ -5,6 +5,9 @@ player=Spotify
 ;System
 disk1=C:
 disk2=D:
+CpuName=i5-11600KF
+GpuName=RTX 3080
+
 
 ;Fonts
 fontname=iosevka nerd font
