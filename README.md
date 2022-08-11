@@ -25,6 +25,8 @@ In case you want to try it and never have used Rainmeter before :
 To customize the location, metrics and language edit @Resources/styles.inc<br>
 More help about this in @Resources/WeatherData/MeasureNamesReference.txt
 
+If you liked how I positioned the elements, you can copy Rainmeter.ini content into the rainmeter parameters (On rainmeter > Edit parameters, paste it here, this is the place where the positions are stored)
+
 There are a lot of things you can easily change, just dig in the files !
 
 ## Temperature meter
