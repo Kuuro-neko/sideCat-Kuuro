@@ -8,9 +8,9 @@ It is not intended for easy setup, specially if you never used Rainmeter but i w
 
 ## Preview
 
-![Screenshot of my desktop](https://i.imgur.com/KGMrwea.png)
+![Screenshot of my desktop](https://i.imgur.com/72w89yi.png)
 
-## Setup
+## Basic installation
 
 In case you want to try it and never have used Rainmeter before :
 
@@ -25,7 +25,25 @@ In case you want to try it and never have used Rainmeter before :
 To customize the location, metrics and language edit @Resources/styles.inc<br>
 More help about this in @Resources/WeatherData/MeasureNamesReference.txt
 
+If you liked how I positioned the elements, you can copy Rainmeter.ini content into the rainmeter parameters (On rainmeter > Edit parameters, paste it here, this is the place where the positions are stored)
+
 There are a lot of things you can easily change, just dig in the files !
+
+## Temperature meter
+
+This one requires a little more effort to setup since you need to use HWiNFO to get the values. After doing the basic install follow these steps :
+
+- Go to the [official rainmeter's HWinfo guide](https://docs.rainmeter.net/tips/hwinfo/) and follow the steps starting at installing HWiNFO until you create your first gadget
+
+- Create a gadget for your CPU and GPU temperature and remember their ID<br>
+  If you forgot their ID, use the following command on a cmd to get them faster :
+  ```
+  reg query HKEY_CURRENT_USER\SOFTWARE\HWiNFO64\VSB
+  ```
+
+- Replace them in Temperature/sideCat_temperature.ini in the right meters (use RAW value for temperatures)
+
+- Change the CPU and GPU name as you wish in @Resources/styles.inc
 
 ## Credits
 
