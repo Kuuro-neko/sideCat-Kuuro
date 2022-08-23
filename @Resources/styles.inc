@@ -13,7 +13,7 @@ GpuName=RTX 3080
 fontname=iosevka nerd font
 
 ;Weather
-WeatherLocation=Montpellier, France
+WeatherLocation=Toulouse, France
 WeatherUnits=Metric
 Language=fr
 
